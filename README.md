@@ -1,4 +1,4 @@
-# Web-Data-Intake
+# SWGOH Scripts
 Personal Projects involving intaking large datasets from the internet and doing processing or just placing them in tables
 
 # Current Projects
